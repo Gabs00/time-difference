@@ -1,7 +1,7 @@
 {
   "name": "time-difference",
   "version": "1.0.0",
-  "description": "Difference in days between two times",
+  "description": "Difference in days between two dates",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R spec "

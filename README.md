@@ -5,7 +5,6 @@
 
 		var diff = timeDiff.absoluteDifference(	firstDate, secondDate); // diff = 1
 
-		var answer = -10;
 		var firstDate = new Date('6/10/16');
 		var secondDate = new Date('6/20/16');
 
