@@ -1,5 +1,5 @@
 function difference( firstDate, secondDate ){
-	return ( ( firstDate - secondDate )/86400 )/1000;
+	return ( firstDate - secondDate )/86400000;
 }
 
 function absoluteDifference ( firstDate, secondDate ){

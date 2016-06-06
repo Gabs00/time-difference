@@ -1,10 +1,14 @@
 {
   "name": "time-difference",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Difference in days between two dates",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R spec "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gabs00/time-difference.git"
   },
   "keywords": [
     "time",
